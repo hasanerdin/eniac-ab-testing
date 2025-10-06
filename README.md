@@ -50,9 +50,3 @@ git clone https://github.com/hasanerdin/eniac-ab-testing.git
 
 Open the Jupyter notebooks in /notebooks to explore data analysis and experiments.
 Visualize funnel metrics, conversion rates, and statistical test results.
-
-📚 References
-
-A/B Testing & Conversion Rate Optimization Concepts
-Central Limit Theorem & Hypothesis Testing
-[Python Data Science Libraries](https://pandas.pydata.org/, https://numpy.org/)
