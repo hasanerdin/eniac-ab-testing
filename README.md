@@ -46,7 +46,7 @@ Git & GitHub
 
 Clone the repository:
 
-git clone https://github.com/your-username/eniac-ab-testing.git
+git clone https://github.com/hasanerdin/eniac-ab-testing.git
 
 Open the Jupyter notebooks in /notebooks to explore data analysis and experiments.
 Visualize funnel metrics, conversion rates, and statistical test results.
